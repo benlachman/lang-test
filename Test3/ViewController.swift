@@ -21,6 +21,8 @@ class ViewController: UIViewController {
         label.sizeToFit()
         
         view.addSubview(label)
+        
+        label.center = view.center
     }
 }
 
