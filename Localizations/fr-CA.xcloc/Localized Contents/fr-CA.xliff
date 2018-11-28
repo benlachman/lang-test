@@ -24,6 +24,7 @@
       </trans-unit>
       <trans-unit id="Realy, I don't like the maid">
         <source>Realy, I don't like the maid</source>
+        <target>Vraiment, je n'aime pas la femme de chambre</target>
         <note>really really</note>
       </trans-unit>
     </body>
