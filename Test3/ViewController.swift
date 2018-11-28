@@ -17,7 +17,8 @@ class ViewController: UIViewController {
         
         label = UILabel(frame: .zero)
         label.text = NSLocalizedString("Help, I'm in love with your butler", comment: "But I could do without the maid")
-        
+        label.text = NSLocalizedString("Realy, I don't like the maid", comment: "really really")
+
         label.sizeToFit()
         
         view.addSubview(label)
