@@ -22,9 +22,8 @@
         <target>Au secours, je suis amoureux de ton majordome</target>
         <note>But I could do without the maid</note>
       </trans-unit>
-      <trans-unit id="Realy, I don't like the maid">
-        <source>Realy, I don't like the maid</source>
-        <target>Vraiment, je n'aime pas la femme de chambre</target>
+      <trans-unit id="Really, I don't like the maid">
+        <source>Really, I don't like the maid</source>
         <note>really really</note>
       </trans-unit>
     </body>
